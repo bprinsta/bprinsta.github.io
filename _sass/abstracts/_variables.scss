@@ -1,3 +1,5 @@
+$soft-red: #e8715b;
+
 $primary: #277cea !default;
 $secondary: #ff6161 !default;
 $border: #ededed !default;
@@ -8,13 +10,16 @@ $error: #ff6161 !default;
 
 $bg-color: #fff !default;
 $light-bg-color: #f9f9f9;
-$text-color: #343851;
+// $text-color: #343851;
+$text-color: #000;
 $heading-color: #313237;
+$heading-color: #ff6161;
 $link-color: $primary;
 $button-dark: #222325;
 $dark-light: #313237;
 $outline: #dbdbdb;
 $grey: #838c8d;
+
 
 $font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
 
