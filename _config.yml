@@ -6,38 +6,37 @@ description: > # Meta description of Homepage
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://localhost:3000/" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "http://localhost:3000" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
   name: Ben Musoke-Lubega
   links:
-  # - https://twitter.com/BenBalter
-  # - https://www.facebook.com/ben.balter
+    - https://www.facebook.com/benjaminprinsta
     - https://www.linkedin.com/in/bpmusokelubega
-  # - https://plus.google.com/+BenBalter
     - https://github.com/bprinsta
-  # - https://keybase.io/benbalter
 
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
+  - {name: 'Resume', link: '/resume'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  I create things
+  Coder. Writer. Person. 
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/water.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
 
-twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
+# twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
 github_username:  bprinsta # replace with your_github_username or comment to remove link from footer
-instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+# instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+linkedin_username: bpmusokelubega
 
 disqus:
-  shortname: janczizikow # to enable comments replace with your_disqus_shortname
+  shortname: bprinsta # to enable comments replace with your_disqus_shortname
 
 # google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
 

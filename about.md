@@ -4,10 +4,12 @@ title: About Me
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+Hi, my name's Ben! I'm a student at Princeton University pursuing a degree in Computer Science. I'm particularly concerned with how technology, innovation, and design can be used to make the world a better place. 
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+In my spare time I enjoy writing stories, creating playlists, playing sports, and reading upon various subjects.
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Welcome to my site!
+
+<figure style="width: 180px; height:auto; margin-left: auto; margin-right: auto;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/profile_pic.png" alt="">
+</figure> 
