@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Under The Table
+title: Brick Breaker
 featured-img: emile-perron-190221
 categories: [Games, Programming, Phaser]
 ---

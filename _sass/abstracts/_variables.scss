@@ -2,7 +2,7 @@ $soft-red: #e8715b;
 $dark-blue: #072a55;
 $soft-blue: #5b8ce8;
 
-$primary: $soft-blue;
+$primary: $soft-blue !default;
 $secondary: #ff6161 !default;
 $border: #ededed !default;
 $primary-light: #68a4f1;
