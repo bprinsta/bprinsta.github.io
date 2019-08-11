@@ -1,6 +1,6 @@
 ---
 layout: post
 title: Under The Table
-featured-img: emile-perron-190221
-categories: [Games, Programming, Phaser]
+featured-img: under-the-table
+categories: [Games, Programming]
 ---
